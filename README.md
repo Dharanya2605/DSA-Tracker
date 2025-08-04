@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Dharanya2605/DSA-Tracker/tree/master/0150-evaluate-reverse-polish-notation) |
+| [1013-fibonacci-number](https://github.com/Dharanya2605/DSA-Tracker/tree/master/1013-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Dharanya2605/DSA-Tracker/tree/master/0042-trapping-rain-water) |
+| [1013-fibonacci-number](https://github.com/Dharanya2605/DSA-Tracker/tree/master/1013-fibonacci-number) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -58,4 +60,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Dharanya2605/DSA-Tracker/tree/master/0104-maximum-depth-of-binary-tree) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Dharanya2605/DSA-Tracker/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Dharanya2605/DSA-Tracker/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
