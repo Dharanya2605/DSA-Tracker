@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Dharanya2605/DSA-Tracker/tree/master/0042-trapping-rain-water) |
+| [0541-reverse-string-ii](https://github.com/Dharanya2605/DSA-Tracker/tree/master/0541-reverse-string-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -101,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/Dharanya2605/DSA-Tracker/tree/master/3790-fruits-into-baskets-ii) |
+## String
+|  |
+| ------- |
+| [0541-reverse-string-ii](https://github.com/Dharanya2605/DSA-Tracker/tree/master/0541-reverse-string-ii) |
 <!---LeetCode Topics End-->
