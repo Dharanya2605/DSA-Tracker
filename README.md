@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Dharanya2605/DSA-Tracker/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0940-fruit-into-baskets](https://github.com/Dharanya2605/DSA-Tracker/tree/master/0940-fruit-into-baskets) |
 | [1039-find-the-town-judge](https://github.com/Dharanya2605/DSA-Tracker/tree/master/1039-find-the-town-judge) |
+| [1505-create-target-array-in-the-given-order](https://github.com/Dharanya2605/DSA-Tracker/tree/master/1505-create-target-array-in-the-given-order) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Dharanya2605/DSA-Tracker/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [3790-fruits-into-baskets-ii](https://github.com/Dharanya2605/DSA-Tracker/tree/master/3790-fruits-into-baskets-ii) |
 ## Math
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1505-create-target-array-in-the-given-order](https://github.com/Dharanya2605/DSA-Tracker/tree/master/1505-create-target-array-in-the-given-order) |
 | [3790-fruits-into-baskets-ii](https://github.com/Dharanya2605/DSA-Tracker/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
