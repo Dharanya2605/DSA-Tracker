@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Dharanya2605/DSA-Tracker/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0455-assign-cookies](https://github.com/Dharanya2605/DSA-Tracker/tree/master/0455-assign-cookies) |
 | [0518-coin-change-ii](https://github.com/Dharanya2605/DSA-Tracker/tree/master/0518-coin-change-ii) |
+| [0924-fair-candy-swap](https://github.com/Dharanya2605/DSA-Tracker/tree/master/0924-fair-candy-swap) |
 | [0940-fruit-into-baskets](https://github.com/Dharanya2605/DSA-Tracker/tree/master/0940-fruit-into-baskets) |
 | [1039-find-the-town-judge](https://github.com/Dharanya2605/DSA-Tracker/tree/master/1039-find-the-town-judge) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Dharanya2605/DSA-Tracker/tree/master/1505-create-target-array-in-the-given-order) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0924-fair-candy-swap](https://github.com/Dharanya2605/DSA-Tracker/tree/master/0924-fair-candy-swap) |
 | [0940-fruit-into-baskets](https://github.com/Dharanya2605/DSA-Tracker/tree/master/0940-fruit-into-baskets) |
 | [1039-find-the-town-judge](https://github.com/Dharanya2605/DSA-Tracker/tree/master/1039-find-the-town-judge) |
 ## Tree
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0924-fair-candy-swap](https://github.com/Dharanya2605/DSA-Tracker/tree/master/0924-fair-candy-swap) |
 | [3790-fruits-into-baskets-ii](https://github.com/Dharanya2605/DSA-Tracker/tree/master/3790-fruits-into-baskets-ii) |
 ## Segment Tree
 |  |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Dharanya2605/DSA-Tracker/tree/master/0455-assign-cookies) |
+| [0924-fair-candy-swap](https://github.com/Dharanya2605/DSA-Tracker/tree/master/0924-fair-candy-swap) |
 ## Bit Manipulation
 |  |
 | ------- |
