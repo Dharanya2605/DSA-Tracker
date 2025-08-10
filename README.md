@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Dharanya2605/DSA-Tracker/tree/master/0374-guess-number-higher-or-lower) |
 | [0924-fair-candy-swap](https://github.com/Dharanya2605/DSA-Tracker/tree/master/0924-fair-candy-swap) |
 | [3790-fruits-into-baskets-ii](https://github.com/Dharanya2605/DSA-Tracker/tree/master/3790-fruits-into-baskets-ii) |
 ## Segment Tree
@@ -141,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Dharanya2605/DSA-Tracker/tree/master/0231-power-of-two) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Dharanya2605/DSA-Tracker/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
