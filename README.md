@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Dharanya2605/DSA-Tracker/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0455-assign-cookies](https://github.com/Dharanya2605/DSA-Tracker/tree/master/0455-assign-cookies) |
 | [0518-coin-change-ii](https://github.com/Dharanya2605/DSA-Tracker/tree/master/0518-coin-change-ii) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/Dharanya2605/DSA-Tracker/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0924-fair-candy-swap](https://github.com/Dharanya2605/DSA-Tracker/tree/master/0924-fair-candy-swap) |
 | [0940-fruit-into-baskets](https://github.com/Dharanya2605/DSA-Tracker/tree/master/0940-fruit-into-baskets) |
 | [1039-find-the-town-judge](https://github.com/Dharanya2605/DSA-Tracker/tree/master/1039-find-the-town-judge) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Dharanya2605/DSA-Tracker/tree/master/0374-guess-number-higher-or-lower) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/Dharanya2605/DSA-Tracker/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0924-fair-candy-swap](https://github.com/Dharanya2605/DSA-Tracker/tree/master/0924-fair-candy-swap) |
 | [3790-fruits-into-baskets-ii](https://github.com/Dharanya2605/DSA-Tracker/tree/master/3790-fruits-into-baskets-ii) |
 ## Segment Tree
