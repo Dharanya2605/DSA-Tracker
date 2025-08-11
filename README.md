@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/Dharanya2605/DSA-Tracker/tree/master/1039-find-the-town-judge) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Dharanya2605/DSA-Tracker/tree/master/1505-create-target-array-in-the-given-order) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Dharanya2605/DSA-Tracker/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2529-range-product-queries-of-powers](https://github.com/Dharanya2605/DSA-Tracker/tree/master/2529-range-product-queries-of-powers) |
 | [3790-fruits-into-baskets-ii](https://github.com/Dharanya2605/DSA-Tracker/tree/master/3790-fruits-into-baskets-ii) |
 ## Math
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Dharanya2605/DSA-Tracker/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2529-range-product-queries-of-powers](https://github.com/Dharanya2605/DSA-Tracker/tree/master/2529-range-product-queries-of-powers) |
 ## Hash Table
 |  |
 | ------- |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Dharanya2605/DSA-Tracker/tree/master/0231-power-of-two) |
+| [2529-range-product-queries-of-powers](https://github.com/Dharanya2605/DSA-Tracker/tree/master/2529-range-product-queries-of-powers) |
 ## Interactive
 |  |
 | ------- |
