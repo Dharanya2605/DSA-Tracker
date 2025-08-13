@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Dharanya2605/DSA-Tracker/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/Dharanya2605/DSA-Tracker/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Dharanya2605/DSA-Tracker/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Dharanya2605/DSA-Tracker/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Dharanya2605/DSA-Tracker/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/Dharanya2605/DSA-Tracker/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/Dharanya2605/DSA-Tracker/tree/master/1236-n-th-tribonacci-number) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/Dharanya2605/DSA-Tracker/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Dharanya2605/DSA-Tracker/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Dharanya2605/DSA-Tracker/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Dharanya2605/DSA-Tracker/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Dharanya2605/DSA-Tracker/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Dharanya2605/DSA-Tracker/tree/master/0342-power-of-four) |
 | [2529-range-product-queries-of-powers](https://github.com/Dharanya2605/DSA-Tracker/tree/master/2529-range-product-queries-of-powers) |
 ## Interactive
 |  |
