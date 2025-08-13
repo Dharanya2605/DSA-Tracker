@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1086-divisor-game](https://github.com/Dharanya2605/DSA-Tracker/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/Dharanya2605/DSA-Tracker/tree/master/1236-n-th-tribonacci-number) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Dharanya2605/DSA-Tracker/tree/master/1950-sign-of-the-product-of-an-array) |
+| [2083-three-divisors](https://github.com/Dharanya2605/DSA-Tracker/tree/master/2083-three-divisors) |
 | [2752-sum-multiples](https://github.com/Dharanya2605/DSA-Tracker/tree/master/2752-sum-multiples) |
 ## Stack
 |  |
@@ -163,4 +164,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Dharanya2605/DSA-Tracker/tree/master/0374-guess-number-higher-or-lower) |
+## Enumeration
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/Dharanya2605/DSA-Tracker/tree/master/2083-three-divisors) |
+## Number Theory
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/Dharanya2605/DSA-Tracker/tree/master/2083-three-divisors) |
 <!---LeetCode Topics End-->
