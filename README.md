@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1505-create-target-array-in-the-given-order](https://github.com/Dharanya2605/DSA-Tracker/tree/master/1505-create-target-array-in-the-given-order) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Dharanya2605/DSA-Tracker/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Dharanya2605/DSA-Tracker/tree/master/1950-sign-of-the-product-of-an-array) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Dharanya2605/DSA-Tracker/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2529-range-product-queries-of-powers](https://github.com/Dharanya2605/DSA-Tracker/tree/master/2529-range-product-queries-of-powers) |
 | [3790-fruits-into-baskets-ii](https://github.com/Dharanya2605/DSA-Tracker/tree/master/3790-fruits-into-baskets-ii) |
 ## Math
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/Dharanya2605/DSA-Tracker/tree/master/1236-n-th-tribonacci-number) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Dharanya2605/DSA-Tracker/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2083-three-divisors](https://github.com/Dharanya2605/DSA-Tracker/tree/master/2083-three-divisors) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Dharanya2605/DSA-Tracker/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2752-sum-multiples](https://github.com/Dharanya2605/DSA-Tracker/tree/master/2752-sum-multiples) |
 ## Stack
 |  |
@@ -172,4 +174,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2083-three-divisors](https://github.com/Dharanya2605/DSA-Tracker/tree/master/2083-three-divisors) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Dharanya2605/DSA-Tracker/tree/master/2106-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
