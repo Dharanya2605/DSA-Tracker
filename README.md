@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Dharanya2605/DSA-Tracker/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Dharanya2605/DSA-Tracker/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Dharanya2605/DSA-Tracker/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/Dharanya2605/DSA-Tracker/tree/master/0231-power-of-two) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Dharanya2605/DSA-Tracker/tree/master/0069-sqrtx) |
 | [0374-guess-number-higher-or-lower](https://github.com/Dharanya2605/DSA-Tracker/tree/master/0374-guess-number-higher-or-lower) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Dharanya2605/DSA-Tracker/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0924-fair-candy-swap](https://github.com/Dharanya2605/DSA-Tracker/tree/master/0924-fair-candy-swap) |
