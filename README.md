@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Dharanya2605/DSA-Tracker/tree/master/0042-trapping-rain-water) |
 | [0455-assign-cookies](https://github.com/Dharanya2605/DSA-Tracker/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/Dharanya2605/DSA-Tracker/tree/master/0541-reverse-string-ii) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/Dharanya2605/DSA-Tracker/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Dharanya2605/DSA-Tracker/tree/master/0409-longest-palindrome) |
 | [0541-reverse-string-ii](https://github.com/Dharanya2605/DSA-Tracker/tree/master/0541-reverse-string-ii) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Dharanya2605/DSA-Tracker/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/Dharanya2605/DSA-Tracker/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 ## Graph
 |  |
 | ------- |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0409-longest-palindrome](https://github.com/Dharanya2605/DSA-Tracker/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/Dharanya2605/DSA-Tracker/tree/master/0455-assign-cookies) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/Dharanya2605/DSA-Tracker/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 ## Sorting
 |  |
 | ------- |
