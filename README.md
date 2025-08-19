@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Dharanya2605/DSA-Tracker/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Dharanya2605/DSA-Tracker/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Dharanya2605/DSA-Tracker/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0168-excel-sheet-column-title](https://github.com/Dharanya2605/DSA-Tracker/tree/master/0168-excel-sheet-column-title) |
 | [0231-power-of-two](https://github.com/Dharanya2605/DSA-Tracker/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Dharanya2605/DSA-Tracker/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Dharanya2605/DSA-Tracker/tree/master/0342-power-of-four) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0168-excel-sheet-column-title](https://github.com/Dharanya2605/DSA-Tracker/tree/master/0168-excel-sheet-column-title) |
 | [0409-longest-palindrome](https://github.com/Dharanya2605/DSA-Tracker/tree/master/0409-longest-palindrome) |
 | [0541-reverse-string-ii](https://github.com/Dharanya2605/DSA-Tracker/tree/master/0541-reverse-string-ii) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Dharanya2605/DSA-Tracker/tree/master/2346-largest-3-same-digit-number-in-string) |
