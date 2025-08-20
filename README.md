@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/Dharanya2605/DSA-Tracker/tree/master/0197-rising-temperature) |
+| [0610-triangle-judgement](https://github.com/Dharanya2605/DSA-Tracker/tree/master/0610-triangle-judgement) |
 ## Greedy
 |  |
 | ------- |
