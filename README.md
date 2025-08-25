@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Dharanya2605/DSA-Tracker/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Dharanya2605/DSA-Tracker/tree/master/0150-evaluate-reverse-polish-notation) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Dharanya2605/DSA-Tracker/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Two Pointers
 |  |
 | ------- |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Dharanya2605/DSA-Tracker/tree/master/0168-excel-sheet-column-title) |
 | [0409-longest-palindrome](https://github.com/Dharanya2605/DSA-Tracker/tree/master/0409-longest-palindrome) |
 | [0541-reverse-string-ii](https://github.com/Dharanya2605/DSA-Tracker/tree/master/0541-reverse-string-ii) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Dharanya2605/DSA-Tracker/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1751-slowest-key](https://github.com/Dharanya2605/DSA-Tracker/tree/master/1751-slowest-key) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Dharanya2605/DSA-Tracker/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Dharanya2605/DSA-Tracker/tree/master/2572-append-characters-to-string-to-make-subsequence) |
