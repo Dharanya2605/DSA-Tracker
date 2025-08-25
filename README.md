@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0924-fair-candy-swap](https://github.com/Dharanya2605/DSA-Tracker/tree/master/0924-fair-candy-swap) |
 | [0940-fruit-into-baskets](https://github.com/Dharanya2605/DSA-Tracker/tree/master/0940-fruit-into-baskets) |
 | [1039-find-the-town-judge](https://github.com/Dharanya2605/DSA-Tracker/tree/master/1039-find-the-town-judge) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Dharanya2605/DSA-Tracker/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Tree
 |  |
 | ------- |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/Dharanya2605/DSA-Tracker/tree/master/0541-reverse-string-ii) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Dharanya2605/DSA-Tracker/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1751-slowest-key](https://github.com/Dharanya2605/DSA-Tracker/tree/master/1751-slowest-key) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Dharanya2605/DSA-Tracker/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Dharanya2605/DSA-Tracker/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Dharanya2605/DSA-Tracker/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 ## Graph
@@ -186,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2083-three-divisors](https://github.com/Dharanya2605/DSA-Tracker/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Dharanya2605/DSA-Tracker/tree/master/2106-find-greatest-common-divisor-of-array) |
+## Counting
+|  |
+| ------- |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Dharanya2605/DSA-Tracker/tree/master/1890-sum-of-beauty-of-all-substrings) |
 <!---LeetCode Topics End-->
