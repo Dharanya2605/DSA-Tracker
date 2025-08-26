@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1950-sign-of-the-product-of-an-array](https://github.com/Dharanya2605/DSA-Tracker/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Dharanya2605/DSA-Tracker/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2529-range-product-queries-of-powers](https://github.com/Dharanya2605/DSA-Tracker/tree/master/2529-range-product-queries-of-powers) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Dharanya2605/DSA-Tracker/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3790-fruits-into-baskets-ii](https://github.com/Dharanya2605/DSA-Tracker/tree/master/3790-fruits-into-baskets-ii) |
 ## Math
 |  |
