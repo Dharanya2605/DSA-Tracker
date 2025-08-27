@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Dharanya2605/DSA-Tracker/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Dharanya2605/DSA-Tracker/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Dharanya2605/DSA-Tracker/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Dharanya2605/DSA-Tracker/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Dharanya2605/DSA-Tracker/tree/master/0020-valid-parentheses) |
 | [0168-excel-sheet-column-title](https://github.com/Dharanya2605/DSA-Tracker/tree/master/0168-excel-sheet-column-title) |
 | [0409-longest-palindrome](https://github.com/Dharanya2605/DSA-Tracker/tree/master/0409-longest-palindrome) |
 | [0541-reverse-string-ii](https://github.com/Dharanya2605/DSA-Tracker/tree/master/0541-reverse-string-ii) |
